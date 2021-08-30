@@ -23,7 +23,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "json-path": "^0.1.3",
+    "json-path": "github:cuda-networks/json-path#1533e018279deea650ab46a0be1cdb221e0c4589",
     "validator": "^5.2.0"
   },
   "devDependencies": {
