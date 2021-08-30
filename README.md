@@ -1,3 +1,5 @@
+This fork is only for addressing pertinent security vulns. Long-term we should remove our dependence on this module.
+
 koa-validate
 ============
 
